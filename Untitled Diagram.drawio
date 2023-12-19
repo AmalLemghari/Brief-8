@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T09:50:43.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="DdF9kU9O0996SLhZYH5y" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-19T09:52:20.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="EcaHiC1B0BovWZTGalTf" version="22.1.11" type="github" pages="3">
   <diagram name="Page-1" id="vLdt1EKLcYfqACjDj4Af">
     <mxGraphModel dx="3320" dy="3677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -454,7 +454,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OqIGuRWAofvZ5ptTFjWC" name="Page-2">
-    <mxGraphModel dx="295" dy="152" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="949" dy="193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,7 +470,7 @@
         <mxCell id="jC29rBvByMUPAwXHaS5y-22" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="1110" width="189" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="jC29rBvByMUPAwXHaS5y-24" value="+ id_user :&amp;nbsp; INT&lt;br&gt;+ First_name : STRING&lt;br&gt;+ Last_Name:&amp;nbsp; STRING&lt;br&gt;+email:&amp;nbsp; &amp;nbsp;STRING;&lt;br&gt;#password:&amp;nbsp; INT&lt;br&gt;+téléphone : INT&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ rôle :&amp;nbsp; &amp;nbsp; &amp;nbsp;STRING,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ équipe ID : INT&amp;nbsp;&lt;br&gt;+ project_Name: STRING" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jC29rBvByMUPAwXHaS5y-22" vertex="1">
+        <mxCell id="jC29rBvByMUPAwXHaS5y-24" value="#&amp;nbsp;id_user :&amp;nbsp; INT&lt;br&gt;#&amp;nbsp;First_name : STRING&lt;br&gt;#&amp;nbsp;Last_Name:&amp;nbsp; STRING&lt;br&gt;# Email:&amp;nbsp; &amp;nbsp;STRING;&lt;br&gt;# Password:&amp;nbsp; INT&lt;br&gt;# Téléphone : INT&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;# Rôle :&amp;nbsp; &amp;nbsp; &amp;nbsp;STRING,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;# Equipe ID : INT&amp;nbsp;&lt;br&gt;# Project_Name: STRING" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jC29rBvByMUPAwXHaS5y-22" vertex="1">
           <mxGeometry y="26" width="189" height="144" as="geometry" />
         </mxCell>
         <mxCell id="jC29rBvByMUPAwXHaS5y-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jC29rBvByMUPAwXHaS5y-22" vertex="1">
